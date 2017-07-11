@@ -4,8 +4,8 @@ Documenting censorship in HTTP
 [IETF 99](https://ietf.org/meeting/99/index.html)
 [Hackathon](https://ietf.org/hackathon/99-hackathon.html) will host a
 project that aims to use [HTTP response code
-451](https://tools.ietf.org/html/rfc7725) to increase transparency of
-censorship.
+451](https://tools.ietf.org/html/rfc7725) to increase transparency and
+visibility of censorship.
 
 Several subprojects are proposed:
 
@@ -24,5 +24,5 @@ organization](https://github.com/451hackathon).
 We'll have an XMPP conference room up and running specifically for
 this project, but it hasn't been allocated yet.  Until that's set up,
 please [join
-hackathon@jabber.ietf.org](xmpp:hackathon@kjabber.ietf.org?join) for
+`hackathon@jabber.ietf.org`](xmpp:hackathon@kjabber.ietf.org?join) for
 real-time chat.
