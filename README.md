@@ -21,8 +21,7 @@ issue](https://github.com/451hackathon/451hackathon/issues/new) to
 join the [Github 451hackathon
 organization](https://github.com/451hackathon).
 
-We'll have an XMPP conference room up and running specifically for
-this project, but it hasn't been allocated yet.  Until that's set up,
-please [join
-`hackathon@jabber.ietf.org`](xmpp:hackathon@kjabber.ietf.org?join) for
+We have our own XMPP conference room specifically for this project!
+Please [join
+`http451@jabber.ietf.org`](xmpp:http451@kjabber.ietf.org?join) for
 real-time chat.
