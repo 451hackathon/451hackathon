@@ -1,13 +1,13 @@
 Documenting censorship in HTTP
 ==============================
 
-[IETF 99](https://ietf.org/meeting/99/index.html)
-[Hackathon](https://ietf.org/hackathon/99-hackathon.html) will host a
+[IETF 100](https://ietf.org/meeting/100/index.html)
+[Hackathon](https://ietf.org/hackathon/100-hackathon.html) will host a
 project that aims to use [HTTP response code
 451](https://tools.ietf.org/html/rfc7725) to increase transparency and
 visibility of censorship.
 
-Several subprojects are proposed:
+Several subprojects are worked on :
 
  * an indexer of censored web pages
 
@@ -16,6 +16,10 @@ Several subprojects are proposed:
  
  * A web browser plugin that detects response code 451
 
+ * An update to RFC7725
+
+ * An implementation report for HTTP Status Code 451 & RFC7725
+
 If you have a github account, please [open an
 issue](https://github.com/451hackathon/451hackathon/issues/new) to
 join the [Github 451hackathon
@@ -23,5 +27,5 @@ organization](https://github.com/451hackathon).
 
 We have our own XMPP conference room specifically for this project!
 Please [join
-`http451@jabber.ietf.org`](xmpp:http451@kjabber.ietf.org?join) for
+`http451@jabber.ietf.org`](xmpp:http451@jabber.ietf.org?join) for
 real-time chat.
